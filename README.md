@@ -1,1 +1,1 @@
-ML project (linear regression) ()
+ML project (linear regression - gradient descent - batch gradient descent) ()
