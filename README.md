@@ -1,1 +1,1 @@
-ML project (linear regression - gradient descent - batch gradient descent - stochastic gradient descent - mini-batch gradient descent - polynomial regression - ridge regression - lasso regression - logistic regression) (iris)
+ML project (linear regression - gradient descent - batch gradient descent - stochastic gradient descent - mini-batch gradient descent - polynomial regression - ridge regression - lasso regression - logistic regression - softmax regression) (iris)
